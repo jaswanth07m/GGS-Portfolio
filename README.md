@@ -72,5 +72,5 @@ The project is deployed using GitHub Pages.
 ```text
 GGS-Portfolio/
 │
-├── GGS-Portfolio.html
+├── index.html
 └── README.md
